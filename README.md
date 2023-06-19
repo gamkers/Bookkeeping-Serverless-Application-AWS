@@ -1,5 +1,6 @@
 # Bookkeeping-Serverless-Application-AWS
 Bookkeeping Serverless Application - AWS
+![image](https://github.com/gamkers/Bookkeeping-Serverless-Application-AWS/assets/87299311/f67d2b51-346a-4716-8cca-fd5295c5a57e)
 ![image](https://github.com/gamkers/Bookkeeping-Serverless-Application-AWS/assets/87299311/3f80d6cb-1c1b-4129-abc7-485fd2ce99ad)
 ![image](https://github.com/gamkers/Bookkeeping-Serverless-Application-AWS/assets/87299311/bce860fc-404a-4f76-a3e8-054c8365c551)
 ![image](https://github.com/gamkers/Bookkeeping-Serverless-Application-AWS/assets/87299311/19b53042-9950-4d53-9214-85a5504c6039)
